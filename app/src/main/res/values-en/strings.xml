@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Space is closer than you think</string>
+    <string name="onb_text">Dive into breathtaking images of the Universe from NASA. Discover what lies beyond billions of stars.</string>
+    <string name="onb_button">Start the journey</string>
+    <string name="error_data_load">Data upload error</string>
+    <string name="offline_message">You are offline. Saved data is shown</string>
+    <string name="offline_no_data">No content available while offline</string>
+</resources>

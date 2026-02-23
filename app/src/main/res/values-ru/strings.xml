@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_title">Космос ближе, чем кажется</string>
+    <string name="onb_text">Погружайся в снимки Вселенной от NASA. Узнай, что скрывается за миллиардами звёзд.</string>
+    <string name="onb_button">Начать путешествие</string>
+    <string name="error_data_load">Ошибка загрузки данных</string>
+    <string name="offline_message">Вы находитесь оффлайн. Показываются сохранённые данные</string>
+    <string name="offline_no_data">Нет контента для отображения без подключения к интернету</string>
+</resources>
